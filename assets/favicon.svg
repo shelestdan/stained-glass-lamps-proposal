@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Витражный светильник">
+  <defs>
+    <linearGradient id="g" x1="8" y1="8" x2="56" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd28a"/>
+      <stop offset=".48" stop-color="#6cc2bd"/>
+      <stop offset="1" stop-color="#243331"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="#151312"/>
+  <path d="M18 35 26 14h12l8 21H18Z" fill="url(#g)" stroke="#f7d9a1" stroke-width="2"/>
+  <path d="M26 14v21M38 14v21M21 27h22" stroke="#151312" stroke-width="2"/>
+  <path d="M31 35h2v11h-2zM23 48h18v4H23z" fill="#f7d9a1"/>
+</svg>

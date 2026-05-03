@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Коммерческое предложение для сайта витражных светильников</title>
+  <desc id="desc">Премиальная графика с витражным паттерном, теплым светом и интерфейсом будущего магазина.</desc>
+  <defs>
+    <radialGradient id="lamp" cx="62%" cy="37%" r="42%">
+      <stop stop-color="#ffcf7a" stop-opacity=".95"/>
+      <stop offset=".46" stop-color="#d98938" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#141211" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="glass" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#28423d"/>
+      <stop offset=".45" stop-color="#6bbeb9"/>
+      <stop offset="1" stop-color="#f0b765"/>
+    </linearGradient>
+    <pattern id="stained" width="94" height="94" patternUnits="userSpaceOnUse">
+      <path d="M0 47h94M47 0v94M0 0l94 94M94 0 0 94" stroke="#f5d08e" stroke-opacity=".18" stroke-width="1"/>
+      <circle cx="47" cy="47" r="17" fill="#74c9c2" fill-opacity=".08"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="#151312"/>
+  <rect width="1200" height="630" fill="url(#stained)" opacity=".75"/>
+  <circle cx="770" cy="240" r="340" fill="url(#lamp)"/>
+  <g transform="translate(710 112)">
+    <path d="M78 224 150 30h170l72 194H78Z" fill="url(#glass)" stroke="#f6d395" stroke-width="4"/>
+    <path d="M150 30v194M235 30v194M320 30v194M104 134h262M134 74l202 150M336 74 134 224" stroke="#191614" stroke-width="4" stroke-opacity=".82"/>
+    <rect x="228" y="224" width="18" height="128" rx="8" fill="#f6d395"/>
+    <rect x="172" y="352" width="130" height="18" rx="9" fill="#f6d395"/>
+  </g>
+  <g transform="translate(86 104)">
+    <text x="0" y="0" fill="#f8ead2" font-family="Inter, Arial, sans-serif" font-size="54" font-weight="700">
+      Сайт для витражных
+    </text>
+    <text x="0" y="70" fill="#f8ead2" font-family="Inter, Arial, sans-serif" font-size="54" font-weight="700">
+      светильников
+    </text>
+    <text x="0" y="132" fill="#d7c8ad" font-family="Inter, Arial, sans-serif" font-size="25">
+      e-commerce, SEO, доставка по России,
+    </text>
+    <text x="0" y="168" fill="#d7c8ad" font-family="Inter, Arial, sans-serif" font-size="25">
+      дилеры и Archicad-файлы для дизайнеров
+    </text>
+    <rect x="0" y="230" width="440" height="132" rx="24" fill="#221d19" stroke="#f2c67a" stroke-opacity=".35"/>
+    <text x="30" y="282" fill="#ffca76" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700">Коммерческое предложение</text>
+    <text x="30" y="326" fill="#f8ead2" font-family="Inter, Arial, sans-serif" font-size="24">Даниил</text>
+  </g>
+</svg>

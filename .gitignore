@@ -1,0 +1,9 @@
+.omx/
+.DS_Store
+Thumbs.db
+node_modules/
+dist/
+coverage/
+*.log
+qa-safari-*.png
+qa-*.png
